@@ -1,5 +1,3 @@
-Here's a detailed `README.md` for your project:
-
 ---
 
 # Blockchain Client-Server System
